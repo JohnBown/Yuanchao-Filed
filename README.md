@@ -1,5 +1,8 @@
 # Yuanchao-Filed
-:pencil2:这里是写博客的地方——技术改变生活
-<p align="center">
-<img src="https://img.shields.io/badge/name-yuanchao-brightgreen.svg">
-</p>
+
+## 第一阶段：基础开发技能强化
+|||
+|:--------|:--------|
+|Java语言基础|Java介绍、开发环境搭建、变量、数据类型和运算符|
+|流程控制和数组|选择结构、循环结构、数组、多维数组、插入算法、排序算法|
+
