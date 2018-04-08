@@ -1,5 +1,16 @@
 # Yuanchao-Filed
 
+## 思维
+||
+|:-------|
+|[中国互联网特色](https://github.com/JohnBown/Yuanchao-Filed/issues/2)|
+## 算法
+
+## Java
+
+
+
+<!--
 ## 第一阶段：基础开发技能强化
 |||
 |:--------|:--------|
@@ -58,4 +69,3 @@
 |HDFS|hadoop分布式存储系统常用命令和分布式文件存储系统Java API|
 |MapReduce和Hive|大数据批处理计算模型，分布式离线计算开发与应用，YARN运行程序开发，分布式数据仓库。|
 |Hbase和Spark|分布式数据库原理，分布式数据库常用shell，HBase数据库Java API，即时计算技术|
-
