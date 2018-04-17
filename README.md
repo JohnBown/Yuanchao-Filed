@@ -21,6 +21,8 @@
 |[JDBC-批处理](https://github.com/JohnBown/Yuanchao-Filed/issues/10)|
 |[浅谈Class类](https://github.com/JohnBown/Yuanchao-Filed/issues/12)|
 |[源码-Object类](https://github.com/JohnBown/Yuanchao-Filed/issues/13)|
+|[JavaFX-开始](https://github.com/JohnBown/Yuanchao-Filed/issues/14)|
+|[传递句柄&克隆对象](https://github.com/JohnBown/Yuanchao-Filed/issues/15)|
 
 <!--
 ## 第一阶段：基础开发技能强化
