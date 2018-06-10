@@ -1,33 +1,6 @@
 # Yuanchao-Filed
 
 <!--
-## 思维
-||
-|:-------|
-|[中国互联网特色](https://github.com/JohnBown/Yuanchao-Filed/issues/2)|
-|[键盘流编程 - IntelliJ IDEA快捷键 ](https://github.com/JohnBown/Yuanchao-Filed/issues/11)|
-
-## 算法
-
-## Java
-||
-|:-------|
-|[JDBC-简介](https://github.com/JohnBown/Yuanchao-Filed/issues/3)|
-|[JDBC-驱动类型](https://github.com/JohnBown/Yuanchao-Filed/issues/4)|
-|[JDBC-连接数据库](https://github.com/JohnBown/Yuanchao-Filed/issues/5)|
-|[JDBC-Statement对象](https://github.com/JohnBown/Yuanchao-Filed/issues/6)|
-|[JDBC-结果集](https://github.com/JohnBown/Yuanchao-Filed/issues/7)|
-|[JDBC-数据类型](https://github.com/JohnBown/Yuanchao-Filed/issues/8)|
-|[JDBC-事务](https://github.com/JohnBown/Yuanchao-Filed/issues/9)|
-|[JDBC-批处理](https://github.com/JohnBown/Yuanchao-Filed/issues/10)|
-|[浅谈Class类](https://github.com/JohnBown/Yuanchao-Filed/issues/12)|
-|[源码-Object类](https://github.com/JohnBown/Yuanchao-Filed/issues/13)|
-|[JavaFX-开始](https://github.com/JohnBown/Yuanchao-Filed/issues/14)|
-|[传递句柄&克隆对象](https://github.com/JohnBown/Yuanchao-Filed/issues/15)|
--->
-
-
-<!--
 ## 第一阶段：基础开发技能强化
 |||
 |:--------|:--------|
